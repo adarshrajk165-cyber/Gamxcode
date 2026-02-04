@@ -1,5 +1,5 @@
-iport py 
-import shy 
+#iport py 
+#import shy 
 
 installation pygame 
 "bear (0'0'0)
